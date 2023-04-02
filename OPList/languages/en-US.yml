@@ -20,6 +20,7 @@ admin-messages:
         reload: "&aThe plugin has been reloaded"
         help-add: "&cAdd the user you want to add"
         help-remove: "&cAdd the user you want to remove"
+        empty-list: "&cEmpty list"
         error-user-exist: "&cError. The user exist"
         error-user-dont-exist: "&cError. The user don't exist"
         user-added: "&aUser added successfully"
