@@ -1,0 +1,32 @@
+# Nombre de idioma
+language-name: Español
+
+admin-help:
+    general:
+    - "&e/oplist help &8» &7Muestra la ayuda"
+    - "&e/oplist reload &8» &7Recarga el plugin"
+    - "&e/oplist list &8» &7Muestra la lista de usuarios admitidos"
+    - "&e/oplist add <user> &8» &7Añadir un usuario a la lista"
+    - "&e/oplist remove <user> &8» &7Remover un usuario de la lista"
+    - "&e/oplist language <language> &8» &7Cambiar el idioma del plugin"
+
+# Mensajes OPList - Puedes eliminar las lineas vacias y los comentarios
+messages:
+    no-permission: "&cNo tienes permiso para usar este comando"
+
+admin-messages:
+    general:
+        error: "&cError. Usa &e/oplist help"
+        reload: "&aEl plugin ha sido recargado"
+        help-add: "&cAñade el usuario que deseas añadir"
+        help-remove: "&cAñade el usuario que deseas eliminar"
+        error-user-exist: "&cError. El usuario ya existe"
+        error-user-dont-exist: "&cError. El usuario no existe"
+        user-added: "&aUsuario añadido correctamente"
+        user-removed: "&aUsuario eliminado correctamente"
+        op-denied: "&cNo puedes tener OP"
+    language:
+        error-languagesapi: "&cError. La opción de soporte multi-idioma &eLanguagesAPI &cesta habilitada."
+        help-language: "&cAñade el idioma que deseas cambiar"
+        change-language: "&aIdioma cambiado a: &e"
+        language-dont-exist: "&cEl idioma especificado no existe"
