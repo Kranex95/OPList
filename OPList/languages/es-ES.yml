@@ -20,6 +20,7 @@ admin-messages:
         reload: "&aEl plugin ha sido recargado"
         help-add: "&cAñade el usuario que deseas añadir"
         help-remove: "&cAñade el usuario que deseas eliminar"
+        empty-list: "&cLista vacia"
         error-user-exist: "&cError. El usuario ya existe"
         error-user-dont-exist: "&cError. El usuario no existe"
         user-added: "&aUsuario añadido correctamente"
